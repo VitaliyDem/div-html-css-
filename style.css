@@ -1,0 +1,136 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+	font-family:sans-serif;
+	font-style: italic;
+	
+
+	
+}
+
+	
+#notice_in,
+#notice_in table {color: white;}
+
+.colan-all {
+	max-width: 960px;
+	margin: 0 auto;
+
+}
+
+.header {
+	display: flex;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.logo {
+	height: 50px;
+	width: 20%;
+	margin-right: auto;
+	background-color: darkblue;
+	border-radius: 10px;
+	
+}
+
+.banner {
+	height: 50px;
+	width: 50%;
+	background-color: darkblue;
+	border-radius: 10px;
+}
+
+.main-navigation {
+	width: 100%;
+	background-color: darkblue;
+	height: 50px;
+	margin-bottom: 25px;
+	border-radius: 10px;
+	
+}
+
+.main-block {
+	display: flex;
+	margin-bottom: 25px;
+}
+
+.colan-right {
+	width: 50%;
+}
+
+.deal-of-the-week {
+	height: 150px;
+	background-color: darkblue;
+	border-radius: 10px;
+}
+
+.partners {
+	height: 200px;
+	background-color: darkblue;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 10px;
+		
+}
+
+.categorized-deals {
+	height: 300px;
+	background-color: darkblue;
+	border-radius: 10px;
+}
+
+.colan-center {
+	width: 23%;
+	margin-left: 2%;
+}
+
+.membership {
+	height: 200px;
+	background-color: darkblue;
+	margin-bottom: 25px;
+	border-radius: 10px;
+} 
+
+.pet-insur {
+	height: 475px;
+	background-color: darkblue;
+	border-radius: 10px;
+	
+}
+
+.colan-left {
+	width: 23%;
+	margin-left: 2%;
+}
+
+.desc {
+	height: 130px;
+	background-color: darkblue;
+	margin-bottom: 25px;
+	border-radius: 10px;
+
+}
+
+.last-five {
+	height: 350px;
+	background-color: darkblue;
+	margin-bottom: 25px;
+	border-radius: 10px;
+	 
+	
+}
+
+.forum-posts {
+	height: 170px;
+	background-color: darkblue;
+	display: table-cell;
+	vertical-align: middle;
+	border-radius: 10px;
+}
+
+footer {
+	height: 70px;
+	background-color: darkblue;
+	margin-bottom: 25px;
+	border-radius: 10px;
+}
